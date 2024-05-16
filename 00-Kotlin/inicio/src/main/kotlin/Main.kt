@@ -88,5 +88,26 @@ fun main(){
     val respuestaFilterDos=arregloDinamico.filter { it<= 5 }
     println(respuestaFilter)
     println(respuestaFilterDos)
-    
+
+    //OR AND operadores
+
+    val respuestaAny: Boolean = arregloDinamico
+        .any{ valorActual:Int ->
+            return@any (valorActual>5)
+        }
+
+    println(respuestaAny)
+
+    val respuestaAnyDos=arregloDinamico.all { it>5 }
+    println(respuestaAnyDos)
+
+    //Reduce
+
+    val respuestaReduce: Int = arregloDinamico
+        .reduce{acumulado:Int , valorActual: Int->
+            return@reduce(acumulado+valorActual)
+        }
+
+    println(respuestaReduce)
+    // return@reduce (acumulado + (itemCarrito.cantidad*itemCarrito.precio)
 }
