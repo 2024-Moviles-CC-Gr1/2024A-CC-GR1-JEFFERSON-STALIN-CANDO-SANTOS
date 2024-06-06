@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorOrientationBackground">#FFA500</color>
+    <color name="colorOrientationText">#4B0082</color>
+    <string name="saludo">Hola mundo! Portainer ES </string>
+</resources>

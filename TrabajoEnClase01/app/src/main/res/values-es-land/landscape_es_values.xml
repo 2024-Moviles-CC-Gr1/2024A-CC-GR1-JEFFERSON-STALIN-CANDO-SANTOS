@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorOrientationBackground">#00FF00</color>
+    <color name="colorOrientationText">#FF00FF</color>
+    <string name="saludo">Hola mundo! Landscape ES </string>
+</resources>
