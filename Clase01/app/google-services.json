@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "985308600569",
+    "project_id": "jscs-2024a-cc-gr1",
+    "storage_bucket": "jscs-2024a-cc-gr1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985308600569:android:632012df53e403a4146a28",
+        "android_client_info": {
+          "package_name": "com.example.a2024ccgr1jscs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_KqprQBfqKwuDbyDk6yISGKAg3Qh-0rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985308600569:android:69fa9b7429421b15146a28",
+        "android_client_info": {
+          "package_name": "com.example.jscsmoviles"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_KqprQBfqKwuDbyDk6yISGKAg3Qh-0rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
