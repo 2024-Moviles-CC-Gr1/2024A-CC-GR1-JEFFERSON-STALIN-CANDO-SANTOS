@@ -15,6 +15,7 @@ class ACicloVida : AppCompatActivity() {
             textoGlobal,
             Snackbar.LENGTH_INDEFINITE
         )
+        snack.show()
     }
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
